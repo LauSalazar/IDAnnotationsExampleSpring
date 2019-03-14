@@ -1,0 +1,9 @@
+domain\LegImpl.class
+domain\Arm.class
+domain\HeadImpl.class
+domain\Leg.class
+domain\RobotImpl.class
+domain\Head.class
+domain\ArmImpl.class
+domain\Main.class
+domain\Robot.class
